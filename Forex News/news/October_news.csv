@@ -1,0 +1,275 @@
+date,time,currency,impact,event
+"Tue
+Oct 1",5:20am,JPY,yellow,Tankan Manufacturing Index
+"Tue
+Oct 1",5:20am,JPY,yellow,Tankan Non-Manufacturing Index
+"Tue
+Oct 1",7:00am,AUD,yellow,Building Approvals m/m
+"Tue
+Oct 1",12:00pm,CHF,yellow,Retail Sales y/y
+"Tue
+Oct 1",2:30pm,EUR,red,CPI Flash Estimate y/y
+"Tue
+Oct 1",7:30pm,USD,red,ISM Manufacturing PMI
+"Tue
+Oct 1",7:30pm,USD,red,JOLTS Job Openings
+"Tue
+Oct 1",7:30pm,USD,orange,ISM Manufacturing Prices
+"Tue
+Oct 1",7:30pm,USD,yellow,Construction Spending m/m
+"Wed
+Oct 2",8:47pm,USD,yellow,FOMC Member Bostic Speaks
+"Wed
+Oct 2",8:47pm,USD,yellow,FOMC Member Collins Speaks
+"Wed
+Oct 2",3:00pm,GBP,yellow,FPC Statement
+"Wed
+Oct 2",6:30pm,USD,yellow,FOMC Member Hammack Speaks
+"Thu
+Oct 3",7:30pm,USD,yellow,Factory Orders m/m
+"Thu
+Oct 3",7:30pm,USD,yellow,FOMC Member Schmid Speaks
+"Fri
+Oct 4",2:00pm,GBP,yellow,Housing Equity Withdrawal q/q
+"Fri
+Oct 4",6:00pm,USD,red,Non-Farm Employment Change
+"Fri
+Oct 4",6:00pm,USD,red,Unemployment Rate
+"Fri
+Oct 4",7:30pm,USD,yellow,FOMC Member Goolsbee Speaks
+"Mon
+Oct 7",11:30am,GBP,yellow,Halifax HPI m/m
+"Tue
+Oct 8",5:00am,JPY,yellow,Average Cash Earnings y/y
+"Tue
+Oct 8",5:00am,JPY,yellow,Household Spending y/y
+"Tue
+Oct 8",6:00am,AUD,yellow,ANZ Job Advertisements m/m
+"Tue
+Oct 8",6:00am,AUD,yellow,NAB Business Confidence
+"Wed
+Oct 9",6:30am,NZD,red,RBNZ Rate Statement
+"Wed
+Oct 9",8:00pm,USD,yellow,FOMC Member Goolsbee Speaks
+"Thu
+Oct 10",5:20am,JPY,yellow,PPI y/y
+"Thu
+Oct 10",6:00pm,USD,red,CPI m/m
+"Thu
+Oct 10",6:00pm,USD,red,CPI y/y
+"Thu
+Oct 10",6:00pm,USD,red,Unemployment Claims
+"Thu
+Oct 10",8:00pm,USD,yellow,Natural Gas Storage
+"Fri
+Oct 11",3:15am,NZD,yellow,Visitor Arrivals m/m
+"Fri
+Oct 11",11:30am,GBP,red,GDP m/m
+"Fri
+Oct 11",11:30am,GBP,yellow,Construction Output m/m
+"Fri
+Oct 11",11:30am,GBP,yellow,Goods Trade Balance
+"Fri
+Oct 11",11:30am,GBP,yellow,Index of Services 3m/3m
+"Fri
+Oct 11",11:30am,GBP,yellow,Industrial Production m/m
+"Fri
+Oct 11",11:30am,GBP,yellow,Manufacturing Production m/m
+"Fri
+Oct 11",6:00pm,CAD,red,Unemployment Rate
+"Fri
+Oct 11",6:00pm,CAD,yellow,Building Permits m/m
+"Fri
+Oct 11",6:00pm,USD,red,Core PPI m/m
+"Fri
+Oct 11",6:00pm,USD,red,PPI m/m
+"Fri
+Oct 11",7:30pm,USD,orange,Prelim UoM Inflation Expectations
+"Sun
+Oct 13",10:40pm,CNY,orange,PPI y/y
+"Mon
+Oct 14",12:00pm,GBP,yellow,MPC Member Dhingra Speaks
+"Tue
+Oct 15",11:30am,GBP,red,Claimant Count Change
+"Tue
+Oct 15",11:30am,GBP,orange,Average Earnings Index 3m/y
+"Tue
+Oct 15",11:30am,GBP,yellow,Unemployment Rate
+"Tue
+Oct 15",2:30pm,EUR,yellow,Industrial Production m/m
+"Tue
+Oct 15",2:30pm,EUR,yellow,ZEW Economic Sentiment
+"Tue
+Oct 15",6:00pm,CAD,red,Median CPI y/y
+"Tue
+Oct 15",6:00pm,CAD,red,Trimmed CPI y/y
+"Tue
+Oct 15",6:00pm,CAD,orange,Common CPI y/y
+"Tue
+Oct 15",6:00pm,CAD,yellow,Wholesale Sales m/m
+"Tue
+Oct 15",6:00pm,USD,orange,Empire State Manufacturing Index
+"Wed
+Oct 16",11:30am,GBP,yellow,Core CPI y/y
+"Wed
+Oct 16",11:30am,GBP,yellow,PPI Input m/m
+"Wed
+Oct 16",11:30am,GBP,yellow,PPI Output m/m
+"Wed
+Oct 16",11:30am,GBP,yellow,RPI y/y
+"Wed
+Oct 16",6:00pm,USD,yellow,Import Prices m/m
+"Thu
+Oct 17",6:00am,AUD,red,Unemployment Rate
+"Thu
+Oct 17",6:00am,AUD,yellow,RBA Bulletin
+"Thu
+Oct 17",2:30pm,EUR,yellow,Final CPI y/y
+"Thu
+Oct 17",2:30pm,EUR,yellow,Italian Trade Balance
+"Thu
+Oct 17",2:30pm,EUR,yellow,Trade Balance
+"Thu
+Oct 17",5:45pm,EUR,red,Monetary Policy Statement
+"Thu
+Oct 17",6:00pm,USD,red,Core Retail Sales m/m
+"Thu
+Oct 17",6:00pm,USD,red,Retail Sales m/m
+"Thu
+Oct 17",6:00pm,USD,red,Unemployment Claims
+"Thu
+Oct 17",6:00pm,USD,orange,Philly Fed Manufacturing Index
+"Thu
+Oct 17",6:45pm,USD,yellow,Industrial Production m/m
+"Thu
+Oct 17",7:30pm,USD,yellow,NAHB Housing Market Index
+"Thu
+Oct 17",8:30pm,USD,yellow,FOMC Member Goolsbee Speaks
+"Fri
+Oct 18",7:30am,CNY,orange,Industrial Production y/y
+"Fri
+Oct 18",7:30am,CNY,orange,Retail Sales y/y
+"Fri
+Oct 18",7:30am,CNY,yellow,Fixed Asset Investment ytd/y
+"Fri
+Oct 18",7:30am,CNY,yellow,NBS Press Conference
+"Fri
+Oct 18",7:30am,CNY,yellow,Unemployment Rate
+"Fri
+Oct 18",6:00pm,USD,yellow,Housing Starts
+"Mon
+Oct 21",6:30am,CNY,orange,1-y Loan Prime Rate
+"Mon
+Oct 21",6:30am,CNY,orange,5-y Loan Prime Rate
+"Tue
+Oct 22",6:00pm,CAD,yellow,RMPI m/m
+"Tue
+Oct 22",7:30pm,USD,orange,FOMC Member Harker Speaks
+"Wed
+Oct 23",Day 2,GBP,yellow,MPC Member Breeden Speaks
+"Wed
+Oct 23",6:30pm,USD,yellow,FOMC Member Bowman Speaks
+"Wed
+Oct 23",7:15pm,CAD,red,BOC Rate Statement
+"Wed
+Oct 23",7:15pm,CAD,red,Overnight Rate
+"Wed
+Oct 23",7:30pm,EUR,yellow,Consumer Confidence
+"Wed
+Oct 23",7:30pm,USD,orange,Existing Home Sales
+"Wed
+Oct 23",8:00pm,USD,orange,Crude Oil Inventories
+"Thu
+Oct 24",3:30am,AUD,yellow,Flash Services PMI
+"Thu
+Oct 24",12:45pm,EUR,red,French Flash Services PMI
+"Thu
+Oct 24",1:00pm,EUR,red,German Flash Services PMI
+"Thu
+Oct 24",1:30pm,EUR,orange,Flash Services PMI
+"Thu
+Oct 24",2:00pm,GBP,red,Flash Services PMI
+"Thu
+Oct 24",3:30pm,GBP,yellow,CBI Industrial Order Expectations
+"Thu
+Oct 24",7:15pm,USD,red,Flash Services PMI
+"Fri
+Oct 25",1:30pm,EUR,yellow,M3 Money Supply y/y
+"Fri
+Oct 25",1:30pm,EUR,yellow,Private Loans y/y
+"Fri
+Oct 25",6:00pm,CAD,red,Retail Sales m/m
+"Fri
+Oct 25",6:00pm,CAD,yellow,NHPI m/m
+"Fri
+Oct 25",6:00pm,USD,orange,Core Durable Goods Orders m/m
+"Fri
+Oct 25",6:00pm,USD,orange,Durable Goods Orders m/m
+"Fri
+Oct 25",7:30pm,USD,yellow,Revised UoM Inflation Expectations
+"Sun
+Oct 27",8:50pm,EUR,gray,Daylight Saving Time Shift
+"Sun
+Oct 27",8:50pm,GBP,gray,Daylight Saving Time Shift
+"Tue
+Oct 29",3:00pm,GBP,yellow,Mortgage Approvals
+"Tue
+Oct 29",3:00pm,GBP,yellow,Net Lending to Individuals m/m
+"Tue
+Oct 29",6:00pm,USD,yellow,Prelim Wholesale Inventories m/m
+"Tue
+Oct 29",6:30pm,USD,yellow,HPI m/m
+"Tue
+Oct 29",7:30pm,USD,red,JOLTS Job Openings
+"Wed
+Oct 30",6:00am,AUD,red,CPI y/y
+"Wed
+Oct 30",6:00am,AUD,red,Trimmed Mean CPI q/q
+"Wed
+Oct 30",12:00pm,EUR,yellow,French Flash GDP q/q
+"Wed
+Oct 30",1:30pm,EUR,orange,Spanish Flash CPI y/y
+"Wed
+Oct 30",1:30pm,EUR,yellow,Spanish Flash GDP q/q
+"Wed
+Oct 30",2:30pm,CHF,yellow,UBS Economic Expectations
+"Wed
+Oct 30",2:30pm,EUR,yellow,Italian Prelim GDP q/q
+"Wed
+Oct 30",2:30pm,EUR,yellow,German Prelim GDP q/q
+"Wed
+Oct 30",6:00pm,USD,orange,Advance GDP Price Index q/q
+"Thu
+Oct 31",5:20am,JPY,yellow,Retail Sales y/y
+"Thu
+Oct 31",6:00am,AUD,yellow,Building Approvals m/m
+"Thu
+Oct 31",6:00am,AUD,yellow,Import Prices q/q
+"Thu
+Oct 31",6:00am,AUD,yellow,Private Sector Credit m/m
+"Thu
+Oct 31",7:00am,CNY,orange,Non-Manufacturing PMI
+"Thu
+Oct 31",8:18am,JPY,red,BOJ Policy Rate
+"Thu
+Oct 31",8:18am,JPY,red,Monetary Policy Statement
+"Thu
+Oct 31",12:30pm,EUR,yellow,German Retail Sales m/m
+"Thu
+Oct 31",2:30pm,EUR,yellow,Italian Monthly Unemployment Rate
+"Thu
+Oct 31",3:30pm,EUR,orange,CPI Flash Estimate y/y
+"Thu
+Oct 31",3:30pm,EUR,yellow,Italian Prelim CPI m/m
+"Thu
+Oct 31",3:30pm,EUR,yellow,Unemployment Rate
+"Thu
+Oct 31",6:00pm,USD,red,Core PCE Price Index m/m
+"Thu
+Oct 31",6:00pm,USD,red,Employment Cost Index q/q
+"Thu
+Oct 31",6:00pm,USD,red,Unemployment Claims
+"Thu
+Oct 31",6:00pm,USD,yellow,Personal Income m/m
+"Thu
+Oct 31",6:00pm,USD,yellow,Personal Spending m/m

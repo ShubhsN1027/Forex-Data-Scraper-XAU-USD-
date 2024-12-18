@@ -1,0 +1,57 @@
+date,time,currency,impact,event
+,"Tue
+Oct 1",1:40am,GBP,yellow
+,"Wed
+Oct 2",3:45am,USD,yellow
+,"Thu
+Oct 3",5:30am,NZD,yellow
+,"Fri
+Oct 4",All Day,CNY,gray
+,"Sat
+Oct 5",1:30am,USD,yellow
+,"Mon
+Oct 7",All Day,AUD,gray
+,"Tue
+Oct 8",12:30am,USD,yellow
+,"Wed
+Oct 9",1:30am,USD,yellow
+,"Thu
+Oct 10",2:30am,USD,yellow
+,"Fri
+Oct 11",3:00am,NZD,yellow
+,"Sun
+Oct 13",7:00am,CNY,orange
+,"Mon
+Oct 14",1:45am,NZD,orange
+,"Tue
+Oct 15",12:30am,USD,orange
+,"Wed
+Oct 16",3:15am,NZD,red
+,"Thu
+Oct 17",12:10am,EUR,orange
+,"Fri
+Oct 18",12:30am,USD,orange
+,"Sat
+Oct 19",1:30am,USD,yellow
+,"Mon
+Oct 21",4:31am,GBP,yellow
+,"Tue
+Oct 22",2:35am,USD,yellow
+,"Wed
+Oct 23",12:45am,EUR,orange
+,"Thu
+Oct 24",12:15am,GBP,red
+,"Fri
+Oct 25",1:15am,GBP,red
+,"Sat
+Oct 26",Day 6,All,yellow
+,"Sun
+Oct 27",7:30am,CHF,gray
+,"Mon
+Oct 28",All Day,NZD,gray
+,"Tue
+Oct 29",5:00am,JPY,yellow
+,"Wed
+Oct 30",1:00am,CAD,red
+,"Thu
+Oct 31",1:45am,CAD,red

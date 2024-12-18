@@ -1,0 +1,124 @@
+2024-12-18 16:47:46,184:INFO:====== WebDriver manager ======
+2024-12-18 16:47:47,216:INFO:Get LATEST chromedriver version for google-chrome
+2024-12-18 16:47:47,367:INFO:Get LATEST chromedriver version for google-chrome
+2024-12-18 16:47:47,501:INFO:Driver [C:\Users\SHUBHAM\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-18 16:47:49,188:INFO:Initialized Chrome WebDriver successfully.
+2024-12-18 16:47:52,600:INFO:Navigated to https://www.forexfactory.com/calendar?month=Oct.2024
+2024-12-18 16:47:52,615:INFO:Located the calendar table.
+2024-12-18 16:47:56,707:INFO:Found 497 rows in the table.
+2024-12-18 16:48:07,728:ERROR:An error occurred during scraping: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00E834A3+25059]
+	(No symbol) [0x00E0CEA4]
+	(No symbol) [0x00CEBEC3]
+	(No symbol) [0x00CF19D1]
+	(No symbol) [0x00CF38EA]
+	(No symbol) [0x00CF3967]
+	(No symbol) [0x00D2F999]
+	(No symbol) [0x00D2FFCB]
+	(No symbol) [0x00D25E91]
+	(No symbol) [0x00D51F44]
+	(No symbol) [0x00D25A24]
+	(No symbol) [0x00D52194]
+	(No symbol) [0x00D6B51E]
+	(No symbol) [0x00D51C96]
+	(No symbol) [0x00D23FAC]
+	(No symbol) [0x00D24F3D]
+	GetHandleVerifier [0x01175613+3113811]
+	GetHandleVerifier [0x0118A2DA+3199002]
+	GetHandleVerifier [0x01182AB2+3168242]
+	GetHandleVerifier [0x00F23310+680016]
+	(No symbol) [0x00E157ED]
+	(No symbol) [0x00E12A98]
+	(No symbol) [0x00E12C35]
+	(No symbol) [0x00E05890]
+	BaseThreadInitThunk [0x76F27BA9+25]
+	RtlInitializeExceptionChain [0x778DC0CB+107]
+	RtlClearBits [0x778DC04F+191]
+
+2024-12-18 16:48:11,049:INFO:Closed the WebDriver.
+2024-12-18 16:48:11,089:INFO:Raw data saved to: news/Oct_news_raw.csv
+2024-12-18 16:48:11,091:INFO:Raw data saved to: news/Oct_news_raw.csv
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,093:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,094:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,094:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,094:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,094:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,094:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,094:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,094:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,094:WARNING:Unexpected date format: ''
+2024-12-18 16:48:11,094:WARNING:Unexpected date format: ''
+2024-12-18 16:55:59,426:INFO:====== WebDriver manager ======
+2024-12-18 16:56:00,745:INFO:Get LATEST chromedriver version for google-chrome
+2024-12-18 16:56:00,898:INFO:Get LATEST chromedriver version for google-chrome
+2024-12-18 16:56:01,059:INFO:Driver [C:\Users\SHUBHAM\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-18 16:56:02,373:INFO:Initialized Chrome WebDriver successfully.
+2024-12-18 16:56:03,457:INFO:Navigated to https://www.forexfactory.com/calendar?month=Oct.2024
+2024-12-18 16:56:06,235:INFO:Located the calendar table.
+2024-12-18 16:57:22,135:INFO:Found 497 rows in the table.
+2024-12-18 16:58:57,954:INFO:Closed the WebDriver.
+2024-12-18 16:58:57,965:INFO:Raw data saved to: news/Oct_news_raw.csv
+2024-12-18 16:58:57,969:INFO:Raw data saved to: news/Oct_news_raw.csv
+2024-12-18 16:58:57,973:ERROR:Error converting date and time to UTC ms for 'nan nan': 'numpy.float64' object has no attribute 'split'
+2024-12-18 17:04:52,226:INFO:====== WebDriver manager ======
+2024-12-18 17:04:53,618:INFO:Get LATEST chromedriver version for google-chrome
+2024-12-18 17:04:54,139:INFO:Get LATEST chromedriver version for google-chrome
+2024-12-18 17:04:54,547:INFO:Driver [C:\Users\SHUBHAM\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-18 17:04:55,758:INFO:Initialized Chrome WebDriver successfully.
+2024-12-18 17:04:58,346:INFO:Navigated to https://www.forexfactory.com/calendar?month=Oct.2024
+2024-12-18 17:05:18,828:ERROR:An error occurred during scraping: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00E834A3+25059]
+	(No symbol) [0x00E0CEA4]
+	(No symbol) [0x00CEBEC3]
+	(No symbol) [0x00D2FD86]
+	(No symbol) [0x00D2FFCB]
+	(No symbol) [0x00D6D952]
+	(No symbol) [0x00D51F44]
+	(No symbol) [0x00D6B51E]
+	(No symbol) [0x00D51C96]
+	(No symbol) [0x00D23FAC]
+	(No symbol) [0x00D24F3D]
+	GetHandleVerifier [0x01175613+3113811]
+	GetHandleVerifier [0x0118A2DA+3199002]
+	GetHandleVerifier [0x01182AB2+3168242]
+	GetHandleVerifier [0x00F23310+680016]
+	(No symbol) [0x00E157ED]
+	(No symbol) [0x00E12A98]
+	(No symbol) [0x00E12C35]
+	(No symbol) [0x00E05890]
+	BaseThreadInitThunk [0x76F27BA9+25]
+	RtlInitializeExceptionChain [0x778DC0CB+107]
+	RtlClearBits [0x778DC04F+191]
+
+2024-12-18 17:05:21,012:INFO:Closed the WebDriver.
+2024-12-18 17:09:19,446:INFO:====== WebDriver manager ======
+2024-12-18 17:09:20,714:INFO:Get LATEST chromedriver version for google-chrome
+2024-12-18 17:09:20,858:INFO:Get LATEST chromedriver version for google-chrome
+2024-12-18 17:09:21,036:INFO:Driver [C:\Users\SHUBHAM\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-18 17:09:22,252:INFO:Initialized Chrome WebDriver successfully.
+2024-12-18 17:09:26,598:INFO:Navigated to https://www.forexfactory.com/calendar?month=Oct.2024
+2024-12-18 17:09:26,615:INFO:Located the calendar table.
+2024-12-18 17:09:59,934:INFO:Found 497 rows in the table.
+2024-12-18 17:10:32,139:INFO:Closed the WebDriver.
+2024-12-18 17:10:32,148:INFO:Raw data saved to: news/Oct_news_raw.csv
+2024-12-18 17:10:32,151:INFO:Raw data saved to: news/Oct_news_raw.csv
+2024-12-18 17:10:32,154:ERROR:Error converting date and time to UTC ms for 'nan nan': 'numpy.float64' object has no attribute 'split'
+2024-12-18 17:14:38,062:INFO:Raw data saved to: news/October_news_raw.csv

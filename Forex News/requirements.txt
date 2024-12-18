@@ -1,0 +1,9 @@
+selenium
+requests
+beautifulsoup4
+pandas
+pyarrow
+nltk
+vaderSentiment
+webdriver-manager
+pytz
